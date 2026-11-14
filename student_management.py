@@ -58,7 +58,7 @@ def main():
     while True:
         print("\n===== Student Management System =====")
         print("1. Add Student")
-        print("2. Display Students")
+        print("2. Display Student")
         print("3. Search Student")
         print("4. Calculate Average Marks")
         print("5. Exit")
