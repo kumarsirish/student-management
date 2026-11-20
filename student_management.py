@@ -3,7 +3,7 @@ students = []
 
 
 def add_student():
-    roll_no = input("Enter Roll Number1: ")
+    roll_no = input("Enter Roll Number: ")
     name = input("Enter Student Name: ")
     marks = float(input("Enter Marks: "))
 
